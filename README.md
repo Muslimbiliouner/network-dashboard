@@ -75,7 +75,7 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-## 🏗️  Code Structure
+##🏗️ Code Structure
 
 | File | Deskripsi |
 |:-----|:----------|
@@ -101,7 +101,7 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-## 🛠️  Installation
+##🛠️ Installation
 
 Clone the repository:
 
