@@ -10,13 +10,13 @@ Capture live TCP/UDP packets, visualize interactively, and analyze your network 
 ---
 
 ## 📚 Table of Contents
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Code Structure](#-code-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [License](#-license)
-- [Credits](#-credits)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Code Structure](#code-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Credits](#credits)
 
 ---
 
@@ -34,48 +34,48 @@ Capture live TCP/UDP packets, visualize interactively, and analyze your network 
 ## 📷 Screenshots
 
 ### 📈 Protocols Captured
-![Protocols Captured](screenshots/Protocols%20Captured.png)
+![Protocols Captured](screenshots/Protocols%20Captured.png)  
 Visualisasi distribusi protokol jaringan (seperti TCP, UDP, ICMP) dalam bentuk pie chart. Menunjukkan proporsi paket yang ditangkap berdasarkan jenis protokol.
 
 ---
 
 ### 📈 Packets Over Time
-![Packets Over Time](screenshots/Packets%20Over%20Time.png)
+![Packets Over Time](screenshots/Packets%20Over%20Time.png)  
 Grafik jumlah paket yang diterima per detik. Memberikan gambaran lalu lintas jaringan sepanjang waktu.
 
 ---
 
 ### 🔍 Top Source IPs
-![Top Source IPs](screenshots/Top%20Source%20IPs.png)
+![Top Source IPs](screenshots/Top%20Source%20IPs.png)  
 Menampilkan daftar IP sumber teratas yang mengirimkan paket terbanyak. Membantu mengidentifikasi perangkat aktif dalam jaringan.
 
 ---
 
 ### 🔍 Top Destination IPs
-![Top Destination IPs](screenshots/Top%20Destination%20IPs.png)
+![Top Destination IPs](screenshots/Top%20Destination%20IPs.png)  
 Menampilkan daftar IP tujuan teratas yang menerima paket terbanyak. Berguna untuk melihat target utama komunikasi jaringan.
 
 ---
 
 ### 🔍 Top Source-Destination Pairs
-![Top Source-Destination Pairs](screenshots/Top%20Source-Destination%20Pairs.png)
+![Top Source-Destination Pairs](screenshots/Top%20Source-Destination%20Pairs.png)  
 Menganalisis pasangan IP sumber dan tujuan yang paling banyak berinteraksi. Memberikan insight ke jalur komunikasi dominan.
 
 ---
 
-### 🛡️  TCP Flags Breakdown
-![TCP Flags Breakdown](screenshots/TCP%20Flags%20Breakdown.png)
+### 🛡️ TCP Flags Breakdown
+![TCP Flags Breakdown](screenshots/TCP%20Flags%20Breakdown.png)  
 Visualisasi distribusi flag TCP (seperti SYN, ACK, FIN). Penting untuk analisis perilaku koneksi TCP.
 
 ---
 
 ### 📦 Packet Size Distribution
-![Packet Size Distribution](screenshots/Packet%20Size%20Distribution.png)
+![Packet Size Distribution](screenshots/Packet%20Size%20Distribution.png)  
 Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yang melewati jaringan.
 
 ---
 
-##🏗️ Code Structure
+## 🏗️ Code Structure
 
 | File | Deskripsi |
 |:-----|:----------|
@@ -101,7 +101,7 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-##🛠️ Installation
+## 🛠️ Installation
 
 Clone the repository:
 
