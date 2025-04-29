@@ -12,7 +12,7 @@ Capture live TCP/UDP packets, visualize interactively, and analyze your network 
 ## 📚 Table of Contents
 - [Features](#-features)
 - [Screenshots](#-screenshots)
-- [Code Structure](#-code-structure)
+- [Code Structure](#code-structure)
 - [Installation](#installation)
 - [Usage](#-usage)
 - [License](#-license)
