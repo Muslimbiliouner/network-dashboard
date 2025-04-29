@@ -63,7 +63,7 @@ Menganalisis pasangan IP sumber dan tujuan yang paling banyak berinteraksi. Memb
 
 ---
 
-### 🛡️ TCP Flags Breakdown
+### 🛡️  TCP Flags Breakdown
 ![TCP Flags Breakdown](screenshots/TCP%20Flags%20Breakdown.png)
 Visualisasi distribusi flag TCP (seperti SYN, ACK, FIN). Penting untuk analisis perilaku koneksi TCP.
 
@@ -75,7 +75,7 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-## 🏗️ Code Structure
+## 🏗️  Code Structure
 
 | File | Deskripsi |
 |:-----|:----------|
@@ -101,7 +101,7 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-## 🛠️ Installation
+## 🛠️  Installation
 
 Clone the repository:
 
