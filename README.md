@@ -75,7 +75,7 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-##🏗️  Code Structure
+## Code Structure
 
 | File | Deskripsi |
 |:-----|:----------|
