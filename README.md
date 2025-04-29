@@ -75,7 +75,7 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-##  Code Structure
+## 🏗️ Code Structure
 
 | File | Deskripsi |
 |:-----|:----------|
@@ -101,55 +101,64 @@ Histogram ukuran paket yang ditangkap. Membantu memahami besar kecilnya data yan
 
 ---
 
-##  Installation
+## 🛠️ Installation
 
 Clone the repository:
 
-```bash
+\`\`\`bash
 git clone https://github.com/Muslimbiliouner/network-dashboard.git
 cd network-dashboard
-```
+\`\`\`
 
 Create a virtual environment (optional but recommended):
 
-```bash
+\`\`\`bash
 conda create --name myenv python=3.11
 conda activate myenv
-```
+\`\`\`
 
 Install the required packages:
 
-```bash
+\`\`\`bash
 pip install -r requirements.txt
-```
+\`\`\`
 
 If needed, install system libraries:
 
-```bash
+\`\`\`bash
 sudo apt update
 sudo apt install libpcap-dev libpcap0.8-dev
-```
+\`\`\`
 
-🚀 Usage
+---
+
+## 🚀 Usage
+
 Run the Streamlit app:
 
-```bash
+\`\`\`bash
 streamlit run dashboard.py
-```
-or You can using 
+\`\`\`
 
-```bash
+or you can use:
+
+\`\`\`bash
 sudo env "PATH=$PATH" streamlit run dashboard.py
-```
-Note:
-You need to generate some network activity (e.g., open websites, ping servers) to see captured packets in real-time.
+\`\`\`
 
-.
+> **Note:**  
+> You need to generate some network activity (e.g., open websites, ping servers) to see captured packets in real-time.
 
-📜 License
+---
+
+## 📜 License
+
 This project is licensed under the MIT License.
 
-🙌 Credits
+---
+
+## 🙌 Credits
+
 Built with ❤️ by **Rahmatulloh Muslimbiliouner**  
 - GitHub: [@Muslimbiliouner](https://github.com/Muslimbiliouner)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
+- LinkedIn : [Rahmatulloh](https://www.linkedin.com/in/rahmatulloh-655578263)
